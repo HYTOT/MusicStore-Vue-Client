@@ -1,0 +1,22 @@
+$vue-color: #42b983;
+
+/* */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    // touch-action: none;
+    font-family: 'SimHei';
+}
+
+#app {
+    width: 100vw;
+    height: 100vh;
+}
+
+.flexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
